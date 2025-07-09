@@ -1,0 +1,66 @@
+# Empty contact list to store all contacts
+contacts = []
+
+# Function to add a new contact
+def add_contact():
+    print("\n--- Add New Contact ---")
+    name = input("Enter Name        : ")
+    phone = input("Enter Phone Number: ")
+    email = input("Enter Email       : ")
+
+    # Create a contact dictionary
+    contact = {
+        "name": name,
+        "phone": phone,
+        "email": email
+    }
+
+    # Add the contact to contacts list
+    contacts.append(contact)
+
+    print(f"\nContact '{name}' added successfully!\n")
+
+# Call the function to test
+add_contact()
+
+# Print all contacts to check
+print(contacts)
+# Empty contact list to store all contacts
+contacts = []
+
+# Function to add a new contact
+def add_contact():
+    print("\n--- Add New Contact ---")
+    name = input("Enter Name        : ")
+    phone = input("Enter Phone Number: ")
+    email = input("Enter Email       : ")
+
+    # Create a contact dictionary
+    contact = {
+        "name": name,
+        "phone": phone,
+        "email": email
+    }
+
+    # Add the contact to contacts list
+    contacts.append(contact)
+
+    print(f"\nContact '{name}' added successfully!\n")
+
+# Call the function to test
+add_contact()
+
+# Print all contacts to check
+print(contacts)
+contacts = []  # list top lo
+
+def add_contact(): 
+    print("ok")
+    
+
+def view_contacts():
+    print("ok")
+# Function calls
+add_contact()
+add_contact()
+view_contacts()
