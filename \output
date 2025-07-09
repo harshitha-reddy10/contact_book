@@ -1,0 +1,8 @@
+--- Add New Contact ---
+Enter Name        : G Harshitha
+Enter Phone Number: 0987654321
+Enter Email       : user123@gmail.com
+
+Contact 'G Harshitha' added successfully!
+
+[{'name': 'G Harshitha', 'phone': '0987654321', 'email': 'user123@gmail.com'}]
